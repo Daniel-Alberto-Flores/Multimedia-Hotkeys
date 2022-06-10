@@ -1,0 +1,24 @@
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\bin\Release\net6.0\Modelo.deps.json
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\bin\Release\net6.0\Modelo.dll
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\bin\Release\net6.0\Modelo.pdb
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\obj\Release\net6.0\Modelo.csproj.AssemblyReference.cache
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\obj\Release\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\obj\Release\net6.0\Modelo.AssemblyInfoInputs.cache
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\obj\Release\net6.0\Modelo.AssemblyInfo.cs
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\obj\Release\net6.0\Modelo.csproj.CoreCompileInputs.cache
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\obj\Release\net6.0\Modelo.dll
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\obj\Release\net6.0\refint\Modelo.dll
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\obj\Release\net6.0\Modelo.pdb
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Modelo\obj\Release\net6.0\ref\Modelo.dll
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\bin\Release\net6.0\Modelo.deps.json
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\bin\Release\net6.0\Modelo.dll
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\bin\Release\net6.0\Modelo.pdb
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\obj\Release\net6.0\Modelo.csproj.AssemblyReference.cache
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\obj\Release\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\obj\Release\net6.0\Modelo.AssemblyInfoInputs.cache
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\obj\Release\net6.0\Modelo.AssemblyInfo.cs
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\obj\Release\net6.0\Modelo.csproj.CoreCompileInputs.cache
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\obj\Release\net6.0\Modelo.dll
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\obj\Release\net6.0\refint\Modelo.dll
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\obj\Release\net6.0\Modelo.pdb
+E:\Totito\Mis Programas\Apps\Multimedia Hotkeys\Source\First release Ver 1.00\Multimedia HotKeys\Modelo\obj\Release\net6.0\ref\Modelo.dll

@@ -1,0 +1,17 @@
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\bin\Debug\net6.0\Logica.deps.json
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\bin\Debug\net6.0\Logica.dll
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\bin\Debug\net6.0\Logica.pdb
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\bin\Debug\net6.0\Datos.dll
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\bin\Debug\net6.0\Modelo.dll
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\bin\Debug\net6.0\Datos.pdb
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\bin\Debug\net6.0\Modelo.pdb
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\obj\Debug\net6.0\Logica.csproj.AssemblyReference.cache
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\obj\Debug\net6.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\obj\Debug\net6.0\Logica.AssemblyInfoInputs.cache
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\obj\Debug\net6.0\Logica.AssemblyInfo.cs
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\obj\Debug\net6.0\Logica.csproj.CoreCompileInputs.cache
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\obj\Debug\net6.0\Logica.csproj.CopyComplete
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\obj\Debug\net6.0\Logica.dll
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\obj\Debug\net6.0\refint\Logica.dll
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\obj\Debug\net6.0\Logica.pdb
+E:\Totito\Mis Programas\C#\source\repos\MultimediaHotKeys\Logica\obj\Debug\net6.0\ref\Logica.dll

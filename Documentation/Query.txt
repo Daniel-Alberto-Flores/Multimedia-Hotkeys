@@ -1,0 +1,20 @@
+Create Table
+
+CREATE TABLE "Hotkeys" (
+	"Name"	TEXT NOT NULL UNIQUE,
+	"Modifier"	TEXT NOT NULL,
+	"Key"	TEXT NOT NULL,
+	PRIMARY KEY("Name")
+);
+
+Insert registrys
+
+INSERT INTO HotKeys (Name, Modifier, Key)
+VALUES 
+   ("Mute", "Ctrl", "D1"),
+   ("Volume down", "Ctrl", "D2"),
+   ("Volume up", "Ctrl", "D3"),
+   ("Stop", "Ctrl", "D4"),
+   ("Prev", "Ctrl", "D5"),
+   ("Play/Pause", "Ctrl", "D6"),
+   ("Next", "Ctrl", "D7")

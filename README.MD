@@ -1,5 +1,5 @@
 Name: MultimediaHotkeys  
-Ver: 1.1
+Ver: 1.2
 Description: Allows to customize multimedia shortcuts for any keyboard.  
 Language used: C# .Net 6.0, Windows Forms Application  
 Database engine used: SQLite  

@@ -3,7 +3,7 @@ Ver: 1.2
 Description: Allows to customize multimedia shortcuts for any keyboard.  
 Language used: C# .Net 6.0, Windows Forms Application  
 Database engine used: SQLite  
-Last update: June 05, 2022  
+Last update: July 02, 2022
 
 You must press Ctrl + Alt + the key assigned.
 

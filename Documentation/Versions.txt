@@ -1,2 +1,3 @@
 Ver 1.0 => Date: 05-06-22 => NetCore 6, Language English
 Ver 1.1 => Date: 30-06-22 => We need to use two modifiers => Ctrl + Alt
+Ver 1.2 => Date: 02-07-22 => Fixed frmAbout
